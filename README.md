@@ -1,4 +1,5 @@
 Estudar e finalizar o relatório.
+
   https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/3-what-cloud-compute
   https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/2-introduction-cloud-compute?source=learn
   https://learn.microsoft.com/pt-br/training/modules/describe-cloud-compute/5-define-cloud-models
